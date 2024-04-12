@@ -3,7 +3,7 @@ import React from 'react'
 
 export default function Navbar() {
   return (
-    <div className='w-full bg-slate-500 flex justify-between'>
+    <div className='w-full h-10 bg-gray-400 flex justify-between border-solid border-black border-b-[1px]'>
       <h1>Logo</h1>
         <div className='w-1/2 flex justify-around'>
         
